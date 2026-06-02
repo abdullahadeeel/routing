@@ -1,8 +1,8 @@
 <?php
 
-namespace Phpify\Routing;
+namespace Nexion\Routing;
 
-use Phpify\Http\Request;
+use Nexion\Http\Request;
 
 class Router
 {

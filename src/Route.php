@@ -1,6 +1,6 @@
 <?php
 
-namespace Phpify\Routing;
+namespace Nexion\Routing;
 
 class Route
 {
